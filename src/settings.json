@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "git.allowForcePush": true,
+    "git.autoStash": true,
+    "git.enableSmartCommit": true
+}
